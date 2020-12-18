@@ -1,0 +1,13 @@
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.exe
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.deps.json
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.runtimeconfig.json
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.runtimeconfig.dev.json
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.dll
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\bin\Debug\netcoreapp3.1\Paradigma.pdb
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.csprojAssemblyReference.cache
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.AssemblyInfoInputs.cache
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.AssemblyInfo.cs
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.dll
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.pdb
+C:\Users\mauricio.carlesso\source\repos\Paradigma\Paradigma\obj\Debug\netcoreapp3.1\Paradigma.genruntimeconfig.cache

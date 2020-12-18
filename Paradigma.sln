@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paradigma", "Paradigma\Paradigma.csproj", "{AF289E47-4078-4700-B824-264BDA5C83DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF289E47-4078-4700-B824-264BDA5C83DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF289E47-4078-4700-B824-264BDA5C83DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF289E47-4078-4700-B824-264BDA5C83DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF289E47-4078-4700-B824-264BDA5C83DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {125BB566-89A4-43A6-9318-DA4C5C3895AB}
+	EndGlobalSection
+EndGlobal

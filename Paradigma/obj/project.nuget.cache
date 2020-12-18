@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NsEEmkivyhqKhfOMrwqP8tGVhgSvqn607M7947E0FZ3IZnOZvlqO4sbo8R4JoTkUsugcpFNVw/BrX88VfGINPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mauricio.carlesso\\Desktop\\paradigma\\Paradigma\\Paradigma\\Paradigma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauricio.carlesso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mauricio.carlesso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
